@@ -1,0 +1,13 @@
+
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ø‚ë½H¯
+osquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(Æè¹‘H´
+Ysquid:S1161":Add the "@Override" annotation above this method signature(ÿŸ¾ÐüÿÿÿÿH·
+4squid:S1220""Move this file to a named package.Hµ
+Dsquid:S1166"%Either log or rethrow this exception.(¼ÔîàùÿÿÿÿH¶
+Y
+squid:S106%";Replace this usage of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿH±
+7squid:S2095"Close this "FileInputStream".(Û¸æËH²
+Dsquid:S1166#"%Either log or rethrow this exception.(¼ÔîàùÿÿÿÿH°
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ê”¼ÞH³
